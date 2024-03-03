@@ -30,7 +30,7 @@ Let's connect and explore opportunities! Reach out to me via:
 
     LinkedIn: www.linkedin.com/in/devarakonda-sri-lalita-bhuvaneswari-58a040259
     Twitter: https://twitter.com/SrilalitaBhuva1
-    Portfolio: [Link to your portfolio or website]
+    Portfolio: 
 
 ✨ Fun Facts
   
