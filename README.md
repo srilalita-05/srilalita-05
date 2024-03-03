@@ -39,7 +39,7 @@ Let's connect and explore opportunities! Reach out to me via:
        You'll often find me frolicking in the great outdoors, communing with squirrels, and convincing myself that I'm secretly a woodland creature in disguise.
        After all, there's nothing like a hike through the forest to remind me that my spirit animal is a coffee-fueled tree hugger! 🌳☕️
   
-    2) Despite being a Carnatic singer, my vocal cords have been known to harmonize with unexpected tunes, from classical ragas to the latest pop hits. 
+    2) Despite being a Carnatic singer, my vocal cords have been known to harmonize with unexpected tunes, from classical ragas to the latest tollywood hits. 
        My friends often joke that my singing can turn any mundane task into a melodious performance 
        - whether it's belting out bhajans while doing dishes or serenading my pet goldfish with intricate taans. 🎶🐠
 
