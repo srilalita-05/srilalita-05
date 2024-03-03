@@ -1,6 +1,6 @@
 👋 Hello World! 
 
-<b>I'm D Sri Lalita Bhuvaneswari 🌟</b>
+<b>I'm D Sri Lalita Bhuvaneswari 🌟</b><br>
 Passionate engineering student | Creative Thinker | Lifelong Learner
 
 🚀 About Me
@@ -18,8 +18,9 @@ I'm on a mission to leverage technology to create meaningful solutions and inspi
 
 🛠️ Projects
 Bill generator
- Python script for streamlined bill generation. Input item details, calculate totals, apply discount and GST. Save time and reduce errors in bill generation for businesses and individuals.
 
+
+    Python script for streamlined bill generation. Input item details, calculate totals, apply discount and GST. Save time and reduce errors in bill generation for businesses and individuals.
     Technologies Used: basic python
     Link: https://github.com/srilalita-05/Bill-generator
   
