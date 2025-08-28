@@ -17,13 +17,28 @@ I'm on a mission to leverage technology to create meaningful solutions and inspi
     Interests: Programming, AI, Mathematics, Problem-Solving, Logic and Reasoning, Data Analysis, Data Analysis, Entrepreneurship and Innovation... 
 
 🛠️ Projects
-Bill generator
+    
+    Bill generator
 
+        Python script for streamlined bill generation. Input item details, calculate totals, apply discount and GST. Save time and reduce errors in bill generation for businesses and individuals.
+    
+        Technologies Used: Basic Python
+    
+        Link: Bill-generator
+        <br>
+    VetSahayak (currently working)
 
-    Python script for streamlined bill generation. Input item details, calculate totals, apply discount and GST. Save time and reduce errors in bill generation for businesses and individuals.
-    Technologies Used: basic python
-    Link: https://github.com/srilalita-05/Bill-generator
-  
+        A Streamlit-powered Veterinary Assistant Bot that helps pet owners with:
+
+        ✅ Symptom Checker (rule-based now, ML roadmap planned)
+
+        📖 Pet Care FAQs (expanding into Retrieval-Augmented Generation)
+
+        🚨 Emergency First Steps (safety-focused guidance)
+
+        Technologies Used: Python, Pandas, Streamlit, CSV datasets (with future upgrades into ML + NLP)
+
+        **Link**:  [VetSahayak](https://github.com/srilalita-05/vetsahayak)
 
 📫 Get in Touch
 
