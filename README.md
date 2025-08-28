@@ -17,36 +17,28 @@ I'm on a mission to leverage technology to create meaningful solutions and inspi
     Interests: Programming, AI, Mathematics, Problem-Solving, Logic and Reasoning, Data Analysis, Data Analysis, Entrepreneurship and Innovation... 
 
 🛠️ Projects
-    
-    Bill generator
 
-        Python script for streamlined bill generation. Input item details, calculate totals, apply discount and GST. Save time and reduce errors in bill generation for businesses and individuals.
-    
-        Technologies Used: Basic Python
-    
-        Link: Bill-generator
-        <br>
-    VetSahayak (currently working)
 
-        A Streamlit-powered Veterinary Assistant Bot that helps pet owners with:
+    🛠️ Projects
 
-        ✅ Symptom Checker (rule-based now, ML roadmap planned)
+**Bill generator**  
+- Python script for streamlined bill generation.  
+- Technologies Used: basic Python  
+- Link: [Bill-generator](https://github.com/srilalita-05/Bill-generator)
 
-        📖 Pet Care FAQs (expanding into Retrieval-Augmented Generation)
+**VetSahayak (currently working)**  
+- Streamlit-powered veterinary assistant (symptom checker, FAQs, emergency steps).  
+- Technologies Used: Python, Pandas, Streamlit  
+- Link: <a href="https://github.com/srilalita-05/VetSahayak">VetSahayak</a>
 
-        🚨 Emergency First Steps (safety-focused guidance)
 
-        Technologies Used: Python, Pandas, Streamlit, CSV datasets (with future upgrades into ML + NLP)
 
-        **Link**:  [VetSahayak](https://github.com/srilalita-05/vetsahayak)
 
 📫 Get in Touch
 
-Let's connect and explore opportunities! Reach out to me via:
-
-    LinkedIn: www.linkedin.com/in/devarakonda-sri-lalita-bhuvaneswari-58a040259
-    Twitter: https://twitter.com/SrilalitaBhuva1
-    Portfolio: 
+- LinkedIn: <a href="https://www.linkedin.com/in/devarakonda-sri-lalita-bhuvaneswari-58a040259">devarakonda-sri-lalita-bhuvaneswari</a>
+- Twitter: <a href="https://twitter.com/SrilalitaBhuva1">@SrilalitaBhuva1</a>
+- Portfolio: 
 
 ✨ Fun Facts
   
