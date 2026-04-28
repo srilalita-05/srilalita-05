@@ -211,18 +211,3 @@ me = SriLalita()
 
 
 
-
-
-this is the actual readme file
-get connected to my readme file and properly organaze the projects based on their techstack
-
-
-Full Stack → ammas-farm (×3), society-smart-hub, EatHealthy, study-Notes-Platform, ieee-website, Re-creation-of-ieee
-ML → diabetes-prediction-webapp, Water-eligibility-checker, Destination-Recommendation, Travel-recommendation-
-AI → Ram-ai, vetsahayak
-NLP → Sentimental-analysis, vetsahayak
-Networking → Multi-Client-TCP
-Data Science → colab-study
-Basic Projects → Bill-generator, AgeCalculator, Calender, ElectraGuide, storage-unit
-
-No confirmed repos yet for: Deep Learning · Computer Vision · Cybersecurity · Mobile App · DevOps/Cloud · Game Dev → these will show as "Coming Soon" sections, not fake-populated.
