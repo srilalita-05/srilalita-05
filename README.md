@@ -1,11 +1,9 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=D%20Sri%20Lalita%20Bhuvaneswari&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Engineering%20Student%20%7C%20Python%20Dev%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=D%20Sri%20Lalita%20Bhuvaneswari&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Engineering%20Student%20%7C%20Python%20%7C%20Full%20Stack%20%7C%20AI%20%2F%20ML&descAlignY=55&descSize=18" width="100%"/>
 
-<!-- Typing Animation -->
 <a href="https://github.com/srilalita-05">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Sri+Lalita+%F0%9F%91%8B;Engineering+Student+%7C+Python+Developer;Building+things+with+AI+%26+Data;Carnatic+Singer+%F0%9F%8E%B6+%7C+Nature+Lover+%F0%9F%8C%BF;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey!+I'm+Sri+Lalita+%F0%9F%91%8B;Engineering+Student+%7C+Python+Developer;Full+Stack+%2B+AI+%2F+ML+Builder;Open+to+Internships+%26+Collaborations+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -29,57 +27,22 @@ class SriLalita:
         self.role        = "Engineering Student"
         self.location    = "India"
         self.languages   = ["Python", "C/C++", "Java", "C#", "HTML", "CSS", "JavaScript"]
-        self.interests   = ["AI/ML", "Data Analysis", "Web Development",
-                            "Problem Solving", "Mathematics", "Entrepreneurship"]
-        self.hobbies     = ["Carnatic Singing 🎶", "Nature Walks 🌳", "Logic Puzzles 🧩"]
+        self.domains     = ["Full Stack Web Dev", "AI / NLP", "Machine Learning",
+                            "Data Analysis", "Networking", "Python Scripting"]
 
     def currently_working_on(self):
-        return "VetSahayak — an AI-powered veterinary assistant built with Streamlit"
+        return [
+            "ammas-farm  — Smart farming full-stack platform (Flask + Frontend)",
+            "society-smart-hub — Smart community/society management platform"
+        ]
 
     def currently_learning(self):
-        return ["NLP", "ML Model Training", "FAISS/Vector Search", "RAG pipelines"]
+        return ["Flask REST APIs", "ML Model Deployment", "NLP pipelines", "RAG"]
 
     def ask_me_about(self):
-        return ["Python scripting", "Sentiment Analysis", "Streamlit apps", "Data wrangling"]
-
-    def fun_fact(self):
-        return "I debug code and classical ragas with equal intensity 🎵💻"
+        return ["Python", "Streamlit apps", "Sentiment Analysis", "TCP Networking", "Flask"]
 
 me = SriLalita()
-print(me.currently_working_on())
-# Output: VetSahayak — an AI-powered veterinary assistant built with Streamlit
-```
-
----
-
-## ✨ Fun Facts
-
-```
-01. 🐾  VetSahayak started as a simple chatbot — it now has a full ML roadmap with
-        FAISS retrieval, intent classifiers, and a safety escalation layer.
-        From pet helper to mini-AI system. Accidentally overengineered it. No regrets.
-
-02. 🎶  I'm a Carnatic singer who also writes Python. My two modes: matching a raga to
-        a patient audience, or matching a regex to a messy CSV. Both require precision.
-
-03. 🌳  I have a secret pact with trees — they give me oxygen, I give them my endless
-        admiration. My spirit animal? A coffee-fueled tree hugger.
-
-04. 📊  Built a sentiment analysis tool that reads Excel files and judges the mood of
-        a column called 'Comments'. My friends say I did this to justify analyzing
-        my own text messages.
-
-05. 🧾  My Bill Generator applies exactly 10% discount AND 18% GST — because who
-        needs to negotiate when the code is already decided?
-
-06. 🐠  My old README mentions serenading a pet goldfish with intricate taans.
-        The goldfish's review: unresponsive. The code's review: 1 star on GitHub.
-
-07. 🔬  VetSahayak's roadmap has 8 phases, from data cleaning to LLM fine-tuning.
-        Phase 1 is: fix a typo ("appettite" → "appetite"). Scale: relative.
-
-08. 💡  I list "Entrepreneurship and Innovation" as an interest, which means I'm
-        simultaneously writing a requirements.txt AND planning a startup. Classic dev.
 ```
 
 ---
@@ -97,135 +60,114 @@ print(me.currently_working_on())
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Frameworks & Libraries
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-FF6F00?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ---
 
 ## 🚀 Projects
 
-### Quick Overview
-
-| Project | Description | Stack | Status |
-|---|---|---|---|
-| 🐾 [VetSahayak](https://github.com/srilalita-05/vetsahayak) | Streamlit veterinary assistant with symptom checker, FAQs & emergency help | Python · Streamlit · Pandas | 🔨 Active |
-| 💬 [Sentiment Analysis](https://github.com/srilalita-05/Sentimental-analysis) | Excel-based comment sentiment analyzer with GUI | Python · NLTK · Tkinter · Pandas | ✅ Complete |
-| 🧾 [Bill Generator](https://github.com/srilalita-05/Bill-generator) | CLI bill generator with GST (18%) & discount (10%) calculation | Python | ✅ Complete |
+> **Legend:** &nbsp; ✅ Completed &nbsp;|&nbsp; 🔨 In Progress &nbsp;|&nbsp; 📋 Planned / Early Stage
 
 ---
 
-<details>
-<summary><b>🐾 VetSahayak — Veterinary Assistant Web App</b></summary>
-<br>
+### 🌐 Full Stack Web Development
 
-A Streamlit-based web app that helps pet owners identify symptoms, get pet care FAQs, and handle emergencies — **without calling a vet at 2 AM.**
-
-**What it does:**
-- **Symptom Checker** — select an animal, enter symptoms, get severity assessment (dangerous or not) and advice
-- **Pet Care FAQs** — keyword-matched answers from a structured CSV dataset covering feeding, vaccination, grooming, exercise
-- **Emergency First Aid** — immediate steps for bleeding, poisoning, choking, fractures before a vet can be reached
-
-**Roadmap includes** intent classifiers, FAISS-based retrieval over FAQs, ML risk classification for symptoms, and LLM-based answer generation grounded in retrieved data.
-
-**Stack:**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-
-🔗 [View Repository →](https://github.com/srilalita-05/vetsahayak)
-
-</details>
+| Status | Project | Description | Stack |
+|:---:|---|---|---|
+| 🔨 | [ammas-farm](https://github.com/srilalita-05/ammas-farm) | Core/base repo for the Amma's Farm project | Python |
+| 📋 | [society-smart-hub](https://github.com/srilalita-05/society-smart-hub) | Smart community/society management platform | 
+| 📋 | [study-Notes-Platform](https://github.com/srilalita-05/study-Notes-Platform) | Platform for sharing and organizing study notes |
+| 📋 | [EatHealthy](https://github.com/srilalita-05/EatHealthy) | Web app for healthy eating guidance | ⚠️ *Verify stack* |
+| ✅ | [ieee-website](https://github.com/srilalita-05/ieee-website) | IEEE student chapter website | HTML · CSS · JS |
+| ✅ | [Re-creation-of-ieee](https://github.com/srilalita-05/Re-creation-of-ieee) | Redesigned version of the IEEE website | HTML · CSS · JS |
 
 ---
 
-<details>
-<summary><b>💬 Sentiment Analysis from Excel</b></summary>
-<br>
+### 🤖 AI / NLP
 
-A desktop GUI tool that lets users load an Excel file and analyze the overall sentiment of a `Comments` column — positive, negative, or neutral — with results displayed inline.
-
-**What it does:**
-- GUI file picker via `tkinter` — no command line needed
-- Reads `.xlsx` / `.xls` files using `pandas`
-- Runs VADER sentiment analysis from `nltk` on the `Comments` column
-- Displays result in the same window with error handling
-
-**Stack:**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-FF6F00?style=flat-square&logo=python&logoColor=white)
-
-🔗 [View Repository →](https://github.com/srilalita-05/Sentimental-analysis)
-
-</details>
+| Status | Project | Description | Stack |
+|:---:|---|---|---|
+| 🔨 | [vetsahayak](https://github.com/srilalita-05/vetsahayak) | Veterinary assistant — symptom checker, pet care FAQs, emergency first aid | Python · Streamlit · Pandas |
+| ✅ | [Sentimental-analysis](https://github.com/srilalita-05/Sentimental-analysis) | Analyzes sentiment of Excel comment data via a GUI | Python · NLTK · Pandas · Tkinter |
+| 📋 | [Ram-ai](https://github.com/srilalita-05/Ram-ai) | AI assistant project | ⚠️ *Verify description & stack* |
 
 ---
 
-<details>
-<summary><b>🧾 Bill Generator</b></summary>
-<br>
+### 📊 Machine Learning / Data Science
 
-A command-line Python script for automated bill generation — input item names, quantities, and prices; the script calculates per-item totals, applies a **10% discount** on the total, adds **18% GST**, and prints an itemized bill.
+| Status | Project | Description | Stack |
+|:---:|---|---|---|
+| 🔨 | [diabetes-prediction-webapp](https://github.com/srilalita-05/diabetes-prediction-webapp) | Predicts diabetes risk from health parameters | Python · Streamlit · scikit-learn |
+| 🔨 | [Water-eligibility-checker](https://github.com/srilalita-05/Water-eligibility-checker) | Checks if water meets safety/eligibility criteria | Python · ⚠️ *Verify stack* |
+| 🔨 | [Destination-Recommendation](https://github.com/srilalita-05/Destination-Recommendation) | Recommends travel destinations based on preferences | Python · ⚠️ *Verify stack* |
+| 🔨 | [Travel-recommendation-](https://github.com/srilalita-05/Travel-recommendation-) | Travel recommendation system | Python · ⚠️ *Verify stack* |
 
-**What it does:**
-- Multi-item input loop with name, quantity, price
-- Running total with per-item breakdown
-- Automatic 10% discount + 18% GST calculation
-- Clean formatted bill output
+---
 
-**Stack:**
+### 🔌 Networking / Systems
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+| Status | Project | Description | Stack |
+|:---:|---|---|---|
+| ✅ | [Multi-Client-TCP](https://github.com/srilalita-05/Multi-Client-TCP) | Multi-client TCP socket communication system | ⚠️ *language: C* |
 
-🔗 [View Repository →](https://github.com/srilalita-05/Bill-generator)
+---
 
-</details>
+### 🐍 Python Utilities & Scripts
+
+| Status | Project | Description | Stack |
+|:---:|---|---|---|
+| ✅ | [Bill-generator](https://github.com/srilalita-05/Bill-generator) | CLI bill generator with 10% discount + 18% GST | Python |
+| ✅ | [AgeCalculator](https://github.com/srilalita-05/AgeCalculator) | Calculates age from a given date of birth | Python |
+| ✅ | [Calender](https://github.com/srilalita-05/Calender) | Calendar utility | Java |
+| 📋 | [ElectraGuide](https://github.com/srilalita-05/ElectraGuide) | Electricity / electrical guidance tool | ⚠️ *Verify description & stack* |
+
+
+---
+
+### 📚 Study / Learning
+
+| Status | Project | Description |
+|:---:|---|---|
+| ✅ | [colab-study](https://github.com/srilalita-05/colab-study) | Google Colab notebooks for study and practice |
 
 ---
 
 ## 🎓 Education
 
-> ⚠️ **Fill in manually:** College name, degree, specialization, year of study, CGPA
-
 | Degree | Institution | Year | Grade |
 |---|---|---|---|
-| B.Tech / B.E. — `[Your Branch]` | `[Your College Name]` | `[Start]` – `[End/Expected]` | `[CGPA/Percentage]` |
+| B.E(AIML) | University College of Engineering Osmania University | 2024-2027 | 8.77 |
 
 ---
 
 ## 💼 Experience
 
-> ⚠️ **Partially inferred:** A folder named `swecha_internship` exists inside the VetSahayak repo, suggesting you completed a Swecha internship. Fill in the details below.
-
 | Role | Organization | Duration | Notes |
 |---|---|---|---|
-| Intern | Swecha (inferred from repo) | `[Month Year – Month Year]` | Built VetSahayak as internship project |
+| Intern | Swecha | May2025 - june2025 | Built VetSahayak veterinary assistant |
 
-> ⚠️ **Fill in manually:** Any other internships, training programs, hackathons, or part-time roles.
 
 ---
 
 ## 🏆 Achievements
 
-> ⚠️ **Fill in manually:** Certifications, hackathon wins, competition placements, online course completions (Coursera, NPTEL, etc.), or any recognitions.
 
-- 📌 `[Achievement 1 — e.g. Completed NPTEL Python for Data Science]`
-- 📌 `[Achievement 2 — e.g. Participated in Smart India Hackathon]`
-- 📌 `[Achievement 3 — e.g. Google Developer Student Clubs member]`
+
+- 📌 [e.g., Completed NPTEL Python / Data Science certification]
+- 📌 [e.g., Participated in Smart India Hackathon / any hackathon]
+- 📌 [e.g., IEEE Student Member / GDSC / other club roles]
 
 ---
 
@@ -239,7 +181,7 @@ A command-line Python script for automated bill generation — input item names,
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=srilalita-05&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180"/>
+<img src="https://streak-stats.demolab.com?user=srilalita-05&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
 
@@ -254,17 +196,13 @@ A command-line Python script for automated bill generation — input item names,
 | 💼 LinkedIn | [devarakonda-sri-lalita-bhuvaneswari](https://www.linkedin.com/in/devarakonda-sri-lalita-bhuvaneswari-58a040259) |
 | 🐦 Twitter / X | [@SrilalitaBhuva1](https://twitter.com/SrilalitaBhuva1) |
 | 💻 GitHub | [srilalita-05](https://github.com/srilalita-05) |
-| 🌐 Portfolio | `[Add your portfolio URL here]` |
-| 📧 Email | `[Add your email here]` |
+| 🌐 Portfolio | `[Add your portfolio URL]` |
+| 📧 Email | [srilalitadevarakonda](srilalitadevarakonda@gmail.com) |
 
 </div>
 
 ---
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
-
-*"Code is poetry. Mine sometimes needs editing — just like a raga in progress."*
-
 </div>
