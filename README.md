@@ -1,159 +1,173 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=D%20Sri%20Lalita%20Bhuvaneswari&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Engineering%20Student%20%7C%20Python%20%7C%20Full%20Stack%20%7C%20AI%20%2F%20ML&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Hey%2C+I'm+[Your+Name]+%F0%9F%91%8B;I+build+things+that+actually+work." alt="Typing SVG" />
-
-<br/>
-
-```python
-class Engineer:
-    name       = "Your Name"
-    degree     = "B.Tech — Computer Science Engineering"
-    focus      = ["Full Stack Development", "AI/ML", "NLP", "Data Science"]
-    currently  = "Building systems that solve real problems"
-    mindset    = "Ship it. Refine it. Repeat."
-```
+<a href="https://github.com/srilalita-05">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey!+I'm+Sri+Lalita+%F0%9F%91%8B;Engineering+Student+%7C+Python+Developer;Full+Stack+%2B+AI+%2F+ML+Builder;Open+to+Internships+%26+Collaborations+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.dev)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devarakonda-sri-lalita-bhuvaneswari-58a040259)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SrilalitaBhuva1)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srilalita-05)
+[![Profile Views](https://komarev.com/ghpvc/?username=srilalita-05&style=for-the-badge&color=58A6FF&label=Profile+Views)](https://github.com/srilalita-05)
 
 </div>
 
 ---
 
-## ⚡ Featured Projects
+## 🧑‍💻 About Me
 
-> The three builds I'm most proud of — each one solving a distinct, real problem.
+```python
+class SriLalita:
+    def __init__(self):
+        self.name        = "D Sri Lalita Bhuvaneswari"
+        self.username    = "srilalita-05"
+        self.role        = "Engineering Student"
+        self.location    = "India"
+        self.languages   = ["Python", "C/C++", "Java", "C#", "HTML", "CSS", "JavaScript"]
+        self.domains     = ["Full Stack Web Dev", "AI / NLP", "Machine Learning",
+                            "Data Analysis", "Networking", "Python Scripting"]
 
-| # | Project | What it does | Stack |
-|---|---------|-------------|-------|
-| 🥇 | **[Project Alpha](#)** | End-to-end ML pipeline that predicts X with 94% accuracy, deployed as a live API | `Python` `FastAPI` `Scikit-learn` `Docker` |
-| 🥈 | **[Project Beta](#)** | Full-stack SaaS dashboard with real-time analytics and role-based access control | `React` `Flask` `PostgreSQL` `Redis` |
-| 🥉 | **[Project Gamma](#)** | NLP-powered document intelligence tool that extracts and summarizes legal text | `Python` `spaCy` `Streamlit` `HuggingFace` |
+    def currently_working_on(self):
+        return [
+            "ammas-farm  — Smart farming full-stack platform (Flask + Frontend)",
+            "society-smart-hub — Smart community/society management platform"
+        ]
 
----
+    def currently_learning(self):
+        return ["Flask REST APIs", "ML Model Deployment", "NLP pipelines", "RAG"]
 
-## 🗂️ Project Index
+    def ask_me_about(self):
+        return ["Python", "Streamlit apps", "Sentiment Analysis", "TCP Networking", "Flask"]
 
-<details open>
-<summary><b>🌐 Full Stack Development</b></summary>
-<br/>
-
-| Project | Description |
-|---------|-------------|
-| [Project Name](#) | A full-stack task manager with JWT auth, REST API, and React frontend |
-| [Project Name](#) | E-commerce platform with cart, Stripe payments, and admin panel |
-| [Project Name](#) | Real-time chat app built on WebSockets with message persistence |
-
-</details>
-
-<details open>
-<summary><b>🤖 Artificial Intelligence</b></summary>
-<br/>
-
-| Project | Description |
-|---------|-------------|
-| [Project Name](#) | AI agent that automates web research and summarizes findings |
-| [Project Name](#) | Rule-based + ML hybrid recommendation engine for product discovery |
-| [Project Name](#) | Prompt-engineered GPT wrapper with custom memory and context handling |
-
-</details>
-
-<details open>
-<summary><b>📈 Machine Learning</b></summary>
-<br/>
-
-| Project | Description |
-|---------|-------------|
-| [Project Name](#) | Churn prediction model with SHAP-based explainability dashboard |
-| [Project Name](#) | House price estimator with hyperparameter-tuned XGBoost pipeline |
-| [Project Name](#) | Anomaly detection system on time-series sensor data |
-
-</details>
-
-<details open>
-<summary><b>🗣️ Natural Language Processing</b></summary>
-<br/>
-
-| Project | Description |
-|---------|-------------|
-| [Project Name](#) | Sentiment analysis engine trained on domain-specific review datasets |
-| [Project Name](#) | Named Entity Recognition pipeline for extracting structured info from raw text |
-| [Project Name](#) | Text summarizer using extractive + abstractive hybrid approach |
-
-</details>
-
-<details open>
-<summary><b>📊 Data Science</b></summary>
-<br/>
-
-| Project | Description |
-|---------|-------------|
-| [Project Name](#) | Exploratory analysis on [dataset] uncovering 5 non-obvious business insights |
-| [Project Name](#) | Interactive Plotly dashboard visualizing public health trends (2015–2024) |
-| [Project Name](#) | End-to-end data pipeline: scrape → clean → analyze → visualize |
-
-</details>
-
-<details>
-<summary><b>🌐 Networking</b></summary>
-<br/>
-
-| Project | Description |
-|---------|-------------|
-| [Project Name](#) | Custom TCP/UDP socket implementation simulating a chat protocol |
-| [Project Name](#) | Network packet analyzer built with Scapy for traffic inspection |
-| [Project Name](#) | Port scanner with OS fingerprinting and latency reporting |
-
-</details>
-
-<details>
-<summary><b>🐍 Python Projects</b></summary>
-<br/>
-
-| Project | Description |
-|---------|-------------|
-| [Project Name](#) | CLI tool that auto-organizes files by type, date, and size |
-| [Project Name](#) | Web scraper with rotating proxies and structured data export |
-| [Project Name](#) | Automation script that monitors stock prices and sends alerts |
-
-</details>
+me = SriLalita()
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C Sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+### Frameworks & Libraries
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-**Frameworks & Libraries**
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+---
 
-**Tools & Infra**
+## 🚀 Projects
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+> **Legend:** &nbsp; ✅ Completed &nbsp;|&nbsp; 🔨 In Progress &nbsp;|&nbsp; 📋 Planned / Early Stage
+
+---
+
+### 🌐 Full Stack Web Development
+
+| Status | Project | Description | Stack |
+|:---:|---|---|---|
+| 🔨 | [ammas-farm](https://github.com/srilalita-05/ammas-farm) | Core/base repo for the Amma's Farm project | Python |
+| 📋 | [society-smart-hub](https://github.com/srilalita-05/society-smart-hub) | Smart community/society management platform | 
+| 📋 | [study-Notes-Platform](https://github.com/srilalita-05/study-Notes-Platform) | Platform for sharing and organizing study notes |
+| 📋 | [EatHealthy](https://github.com/srilalita-05/EatHealthy) | Web app for healthy eating guidance | ⚠️ *Verify stack* |
+| ✅ | [ieee-website](https://github.com/srilalita-05/ieee-website) | IEEE student chapter website | HTML · CSS · JS |
+| ✅ | [Re-creation-of-ieee](https://github.com/srilalita-05/Re-creation-of-ieee) | Redesigned version of the IEEE website | HTML · CSS · JS |
+
+---
+
+### 🤖 AI / NLP
+
+| Status | Project | Description | Stack |
+|:---:|---|---|---|
+| 🔨 | [vetsahayak](https://github.com/srilalita-05/vetsahayak) | Veterinary assistant — symptom checker, pet care FAQs, emergency first aid | Python · Streamlit · Pandas |
+| ✅ | [Sentimental-analysis](https://github.com/srilalita-05/Sentimental-analysis) | Analyzes sentiment of Excel comment data via a GUI | Python · NLTK · Pandas · Tkinter |
+| 📋 | [Ram-ai](https://github.com/srilalita-05/Ram-ai) | AI assistant project | ⚠️ *Verify description & stack* |
+
+---
+
+### 📊 Machine Learning / Data Science
+
+| Status | Project | Description | Stack |
+|:---:|---|---|---|
+| 🔨 | [diabetes-prediction-webapp](https://github.com/srilalita-05/diabetes-prediction-webapp) | Predicts diabetes risk from health parameters | Python · Streamlit · scikit-learn |
+| 🔨 | [Water-eligibility-checker](https://github.com/srilalita-05/Water-eligibility-checker) | Checks if water meets safety/eligibility criteria | Python · ⚠️ *Verify stack* |
+| 🔨 | [Destination-Recommendation](https://github.com/srilalita-05/Destination-Recommendation) | Recommends travel destinations based on preferences | Python · ⚠️ *Verify stack* |
+| 🔨 | [Travel-recommendation-](https://github.com/srilalita-05/Travel-recommendation-) | Travel recommendation system | Python · ⚠️ *Verify stack* |
+
+---
+
+### 🔌 Networking / Systems
+
+| Status | Project | Description | Stack |
+|:---:|---|---|---|
+| ✅ | [Multi-Client-TCP](https://github.com/srilalita-05/Multi-Client-TCP) | Multi-client TCP socket communication system | ⚠️ *language: C* |
+
+---
+
+### 🐍 Python Utilities & Scripts
+
+| Status | Project | Description | Stack |
+|:---:|---|---|---|
+| ✅ | [Bill-generator](https://github.com/srilalita-05/Bill-generator) | CLI bill generator with 10% discount + 18% GST | Python |
+| ✅ | [AgeCalculator](https://github.com/srilalita-05/AgeCalculator) | Calculates age from a given date of birth | Python |
+| ✅ | [Calender](https://github.com/srilalita-05/Calender) | Calendar utility | Java |
+| 📋 | [ElectraGuide](https://github.com/srilalita-05/ElectraGuide) | Electricity / electrical guidance tool | ⚠️ *Verify description & stack* |
+
+
+---
+
+### 📚 Study / Learning
+
+| Status | Project | Description |
+|:---:|---|---|
+| ✅ | [colab-study](https://github.com/srilalita-05/colab-study) | Google Colab notebooks for study and practice |
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Year | Grade |
+|---|---|---|---|
+| B.E(AIML) | University College of Engineering Osmania University | 2024-2027 | 8.77 |
+
+---
+
+## 💼 Experience
+
+| Role | Organization | Duration | Notes |
+|---|---|---|---|
+| Intern | Swecha | May2025 - june2025 | Built VetSahayak veterinary assistant |
+
+
+---
+
+## 🏆 Achievements
+
+
+
+- 📌 [e.g., Completed NPTEL Python / Data Science certification]
+- 📌 [e.g., Participated in Smart India Hackathon / any hackathon]
+- 📌 [e.g., IEEE Student Member / GDSC / other club roles]
 
 ---
 
@@ -161,36 +175,54 @@ class Engineer:
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8"/>
+<img src="https://github-readme-stats.vercel.app/api?username=srilalita-05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srilalita-05&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
+<img src="https://streak-stats.demolab.com?user=srilalita-05&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
 
 ---
 
-## 🚧 Coming Soon
+## 📬 Contact
 
-> Domains I'm actively moving into — not aspirations, active roadmaps.
+<div align="center">
 
-| Domain | Status |
-|--------|--------|
-| 🧠 Deep Learning | `In Progress` — building CNN & RNN projects |
-| 👁️ Computer Vision | `Planned` — object detection & segmentation |
-| 🔐 Cybersecurity | `Planned` — ethical hacking & CTF writeups |
-| 📱 Mobile App Development | `Planned` — React Native |
-| ☁️ DevOps / Cloud | `Planned` — CI/CD, AWS, Kubernetes |
-| 🎮 Game Development | `Planned` — Python & Unity experiments |
+| Platform | Link |
+|---|---|
+| 💼 LinkedIn | [devarakonda-sri-lalita-bhuvaneswari](https://www.linkedin.com/in/devarakonda-sri-lalita-bhuvaneswari-58a040259) |
+| 🐦 Twitter / X | [@SrilalitaBhuva1](https://twitter.com/SrilalitaBhuva1) |
+| 💻 GitHub | [srilalita-05](https://github.com/srilalita-05) |
+| 🌐 Portfolio | `[Add your portfolio URL]` |
+| 📧 Email | [srilalitadevarakonda](srilalitadevarakonda@gmail.com) |
+
+</div>
 
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
-
-*Building in public. Shipping consistently. Open to opportunities.*
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 </div>
+
+
+
+
+
+
+
+this is the actual readme file
+get connected to my readme file and properly organaze the projects based on their techstack
+
+
+Full Stack → ammas-farm (×3), society-smart-hub, EatHealthy, study-Notes-Platform, ieee-website, Re-creation-of-ieee
+ML → diabetes-prediction-webapp, Water-eligibility-checker, Destination-Recommendation, Travel-recommendation-
+AI → Ram-ai, vetsahayak
+NLP → Sentimental-analysis, vetsahayak
+Networking → Multi-Client-TCP
+Data Science → colab-study
+Basic Projects → Bill-generator, AgeCalculator, Calender, ElectraGuide, storage-unit
+
+No confirmed repos yet for: Deep Learning · Computer Vision · Cybersecurity · Mobile App · DevOps/Cloud · Game Dev → these will show as "Coming Soon" sections, not fake-populated.
