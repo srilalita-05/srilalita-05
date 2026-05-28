@@ -169,23 +169,7 @@ me = SriLalita()
 - 📌 [e.g., Participated in Smart India Hackathon / any hackathon]
 - 📌 [e.g., IEEE Student Member / GDSC / other club roles]
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=srilalita-05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srilalita-05&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=srilalita-05&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
-
----
 
 ## 📬 Contact
 
